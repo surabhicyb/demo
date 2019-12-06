@@ -1,14 +1,98 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"aggregateOverDateRange": {
+	"totalRecieved": "187,500",
+	"totalUploaded": "77,500",
+	"totalCompleted": ",500",
+	"totalDelivered": "99,500",
+}
+"dailyTotals": [
+{
+	 "ymd":"2019-11-25",
+   "site_id":"3541",
+	"totalRecieved": { 
+		"totalValid": "100", 
+		"totalInvalid": "50", 
+		"totalWithinDueDate": "15", 
+		"totalOverdue": "30", 
+	},
+	"totalUploaded": { 
+		"totalWithinDueDate": "70",
+		"totalOverdue": "50",
+	},
+	"totalCompleted": { 
+		"totalWithinDueDate": "120",
+		"totalOverdue": "30",
+	},
+	"totalDelivered": {
+		"totalWithinDueDate": "25",
+		"totalOverdue": "60",
+	},
+},
+{
+	 "ymd":"2019-11-29",
+   "site_id":"3541",
+	"totalRecieved": { 
+		"totalValid": "100", 
+		"totalInvalid": "50", 
+		"totalWithinDueDate": "15", 
+		"totalOverdue": "30", 
+	},
+	"totalUploaded": { 
+		"totalWithinDueDate": "70",
+		"totalOverdue": "50",
+	},
+	"totalCompleted": { 
+		"totalWithinDueDate": "120",
+		"totalOverdue": "30",
+	},
+	"totalDelivered": {
+		"totalWithinDueDate": "25",
+		"totalOverdue": "60",
+	},
+},
+{
+	 "ymd":"2019-11-27",
+   "site_id":"3541",
+	"totalRecieved": { 
+		"totalValid": "100", 
+		"totalInvalid": "50", 
+		"totalWithinDueDate": "15", 
+		"totalOverdue": "30", 
+	},
+	"totalUploaded": { 
+		"totalWithinDueDate": "70",
+		"totalOverdue": "50",
+	},
+	"totalCompleted": { 
+		"totalWithinDueDate": "120",
+		"totalOverdue": "30",
+	},
+	"totalDelivered": {
+		"totalWithinDueDate": "25",
+		"totalOverdue": "60",
+	},
+},
+{
+	 "ymd":"2019-11-25",
+   "site_id":"3541",
+	"totalRecieved": { 
+		"totalValid": "100", 
+		"totalInvalid": "50", 
+		"totalWithinDueDate": "15", 
+		"totalOverdue": "30", 
+	},
+	"totalUploaded": { 
+		"totalWithinDueDate": "70",
+		"totalOverdue": "50",
+	},
+	"totalCompleted": { 
+		"totalWithinDueDate": "120",
+		"totalOverdue": "30",
+	},
+	"totalDelivered": {
+		"totalWithinDueDate": "25",
+		"totalOverdue": "60",
+	},
+},
+]
 }
