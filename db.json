@@ -1,9 +1,9 @@
 {
 "aggregateOverDateRange": {
-	"totalRecieved": "187,500",
-	"totalUploaded": "77,500",
-	"totalCompleted": "10,500",
-	"totalDelivered": "99,500"
+	"totalRecieved": "187500",
+	"totalUploaded": "77500",
+	"totalCompleted": "10500",
+	"totalDelivered": "99500"
 },
 "dailyTotals": [
 {
