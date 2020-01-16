@@ -79,7 +79,7 @@
 "total_delivered_within_duedate":"1",
 "total_delivered_overdue":"0"
 },
- { 
+{ 
 "ymd":"2020-01-15",
 "site_id":"5161",
 "type":"dns",
