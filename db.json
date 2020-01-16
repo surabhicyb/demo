@@ -44,7 +44,7 @@
 "total_received_overdue":"0",
 "total_uploaded_within_duedate":"1",
 "total_uploaded_overdue":"0",
-"total_completed_within_duedate":"1",
+"total_completed_within_duedate":"4",
 "total_completed_overdue":"0",
 "total_delivered_within_duedate":"1",
 "total_delivered_overdue":"0"
@@ -59,7 +59,7 @@
 "total_received_overdue":"0",
 "total_uploaded_within_duedate":"1",
 "total_uploaded_overdue":"0",
-"total_completed_within_duedate":"1",
+"total_completed_within_duedate":"2",
 "total_completed_overdue":"0",
 "total_delivered_within_duedate":"1",
 "total_delivered_overdue":"0"
@@ -89,7 +89,7 @@
 "total_received_overdue":"0",
 "total_uploaded_within_duedate":"1",
 "total_uploaded_overdue":"0",
-"total_completed_within_duedate":"1",
+"total_completed_within_duedate":"3",
 "total_completed_overdue":"0",
 "total_delivered_within_duedate":"1",
 "total_delivered_overdue":"0"
