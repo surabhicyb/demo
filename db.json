@@ -1,98 +1,68 @@
-{
-"aggregateOverDateRange": {
-	"totalRecieved": "187500",
-	"totalUploaded": "77500",
-	"totalCompleted": "10500",
-	"totalDelivered": "99500"
+{ 
+"performanceData":{ 
+"total":0,
+"dsarResults":1
 },
-"dailyTotals": [
-{
-	 "ymd":"2019-11-25",
-   "site_id":"3541",
-	"totalRecieved": { 
-		"totalValid": "100", 
-		"totalInvalid": "50", 
-		"totalWithinDueDate": "15", 
-		"totalOverdue": "30"
-	},
-	"totalUploaded": { 
-		"totalWithinDueDate": "70",
-		"totalOverdue": "50"
-	},
-	"totalCompleted": { 
-		"totalWithinDueDate": "120",
-		"totalOverdue": "30"
-	},
-	"totalDelivered": {
-		"totalWithinDueDate": "25",
-		"totalOverdue": "60"
-	}
-},
-{
-	 "ymd":"2019-11-29",
-   "site_id":"3541",
-	"totalRecieved": { 
-		"totalValid": "100", 
-		"totalInvalid": "50", 
-		"totalWithinDueDate": "15", 
-		"totalOverdue": "30"
-	},
-	"totalUploaded": { 
-		"totalWithinDueDate": "70",
-		"totalOverdue": "50"
-	},
-	"totalCompleted": { 
-		"totalWithinDueDate": "120",
-		"totalOverdue": "30"
-	},
-	"totalDelivered": {
-		"totalWithinDueDate": "25",
-		"totalOverdue": "60"
-	}
-},
-{
-	 "ymd":"2019-11-27",
-   "site_id":"3541",
-	"totalRecieved": { 
-		"totalValid": "100", 
-		"totalInvalid": "50", 
-		"totalWithinDueDate": "15", 
-		"totalOverdue": "30"
-	},
-	"totalUploaded": { 
-		"totalWithinDueDate": "70",
-		"totalOverdue": "50"
-	},
-	"totalCompleted": { 
-		"totalWithinDueDate": "120",
-		"totalOverdue": "30"
-	},
-	"totalDelivered": {
-		"totalWithinDueDate": "25",
-		"totalOverdue": "60"
-	}
-},
-{
-	 "ymd":"2019-11-25",
-   "site_id":"3541",
-	"totalRecieved": { 
-		"totalValid": "100", 
-		"totalInvalid": "50", 
-		"totalWithinDueDate": "15", 
-		"totalOverdue": "30" 
-	},
-	"totalUploaded": { 
-		"totalWithinDueDate": "70",
-		"totalOverdue": "50"
-	},
-	"totalCompleted": { 
-		"totalWithinDueDate": "120",
-		"totalOverdue": "30"
-	},
-	"totalDelivered": {
-		"totalWithinDueDate": "25",
-		"totalOverdue": "60"
-	}
+"results":[ 
+{ 
+"ymd":"2020-01-13",
+"site_id":"5161",
+"type":"DSAR",
+"total_invalid":"3",
+"total_valid":"2",
+"total_received_within_duedate":"2",
+"total_received_overdue":"0",
+"total_uploaded_within_duedate":"1",
+"total_uploaded_overdue":"0",
+"total_completed_within_duedate":"1",
+"total_completed_overdue":"0",
+"total_delivered_within_duedate":"1",
+"total_delivered_overdue":"0"
+}
+{ 
+"ymd":"2020-01-13",
+"site_id":"5161",
+"type":"dns",
+"total_invalid":"3",
+"total_valid":"2",
+"total_received_within_duedate":"2",
+"total_received_overdue":"0",
+"total_uploaded_within_duedate":"1",
+"total_uploaded_overdue":"0",
+"total_completed_within_duedate":"1",
+"total_completed_overdue":"0",
+"total_delivered_within_duedate":"1",
+"total_delivered_overdue":"0"
+}
+{ 
+"ymd":"2020-01-13",
+"site_id":"5161",
+"type":"delete",
+"total_invalid":"3",
+"total_valid":"2",
+"total_received_within_duedate":"2",
+"total_received_overdue":"0",
+"total_uploaded_within_duedate":"1",
+"total_uploaded_overdue":"0",
+"total_completed_within_duedate":"1",
+"total_completed_overdue":"0",
+"total_delivered_within_duedate":"1",
+"total_delivered_overdue":"0"
+}
+{ 
+"ymd":"2020-01-14",
+"site_id":"5161",
+"type":"DSAR",
+"total_invalid":"3",
+"total_valid":"2",
+"total_received_within_duedate":"2",
+"total_received_overdue":"0",
+"total_uploaded_within_duedate":"1",
+"total_uploaded_overdue":"0",
+"total_completed_within_duedate":"1",
+"total_completed_overdue":"0",
+"total_delivered_within_duedate":"1",
+"total_delivered_overdue":"0"
 }
 ]
 }
