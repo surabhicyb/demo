@@ -98,7 +98,7 @@
 "ymd":"2020-01-15",
 "site_id":"5161",
 "type":"dns",
-"total_invalid":"9996757890",
+"total_invalid":"99",
 "total_valid":"2",
 "total_received_within_duedate":"2",
 "total_received_overdue":"0",
