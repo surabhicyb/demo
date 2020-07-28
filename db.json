@@ -49,7 +49,7 @@
     {
       "id": 4965,
       "site_id": 501,
-      "status": 1,
+      "status": 2,
       "public_id": "sp:1:501:4965",
       "description": "Adblock Whitelist Three test",
       "message_schema_version": 2,
